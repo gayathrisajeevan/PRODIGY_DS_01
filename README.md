@@ -25,7 +25,7 @@ For this task, I used **Power BI** to design:
 ---
 
 ##  Sample Output:
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/gayathrisajeevan/PRODIGY_DS_01/blob/main/dashboard.jpg)
 
 
 ---

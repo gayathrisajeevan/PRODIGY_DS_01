@@ -24,8 +24,9 @@ For this task, I used **Power BI** to design:
 
 ---
 
-## 📷 Sample Output:
-> *(Add screenshots of your Power BI dashboard here to showcase your visuals)*
+##  Sample Output:
+![Dashboard Screenshot]()
+
 
 ---
 
